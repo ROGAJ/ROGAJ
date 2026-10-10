@@ -22,3 +22,8 @@ También puede publicarse en otros alojamientos estáticos que acepten HTML, CSS
 - Revisar que precios, alcance y disponibilidad coincidan con la oferta vigente.
 
 No hay backend, pagos, rastreadores ni almacenamiento de datos. El formulario solo abre WhatsApp con el mensaje preparado.
+
+## Contacto actualizado
+
+- Correo: consultaarogaj@gmail.com
+- WhatsApp: +52 55 5132 9784
