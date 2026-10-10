@@ -1,0 +1,14 @@
+ROGAJ - Actualización SEO
+
+Subir todos los archivos de este paquete a la raíz del repositorio ROGAJ/ROGAJ mediante Add file > Upload files > Commit changes.
+IMPORTANTE: NO borrar el archivo de verificación de Google (google...html) que ya está en GitHub.
+
+Tras el despliegue comprobar:
+https://rogaj.github.io/ROGAJ/
+https://rogaj.github.io/ROGAJ/demo.html
+https://rogaj.github.io/ROGAJ/sitemap.xml
+
+En Search Console > Sitemaps, enviar: sitemap.xml
+En Inspección de URL, comprobar la página principal y demo.html. No solicitar indexación repetidamente.
+
+SEO no garantiza ranking ni indexación inmediata.

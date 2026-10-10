@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /ROGAJ/
+Sitemap: https://rogaj.github.io/ROGAJ/sitemap.xml
