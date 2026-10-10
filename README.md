@@ -13,3 +13,6 @@ Página: https://rogaj.github.io/ROGAJ/
 Demostración: https://rogaj.github.io/ROGAJ/demo.html
 
 Contacto: consultaarogaj@gmail.com | WhatsApp +52 55 5132 9784.
+
+## Actualización de posicionamiento
+Se añadió «¡Hacemos que mejores!» y los servicios de diagnóstico de problemas, mermas y pérdidas, análisis de causas, soluciones y controles. Conserva demo.html y el Excel. Para publicar, reemplaza todos los archivos en la raíz de GitHub y confirma el commit.
