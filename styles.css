@@ -3,3 +3,5 @@
 
 /* Enlace de correo visible en el área de contacto */
 .email-contact{display:inline-flex;max-width:100%;white-space:normal;text-align:center;}
+
+.demo-actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:24px}.demo-secondary{background:transparent;color:#10283d;border:1px solid #10283d}.demo-disclaimer{font-size:12px;opacity:.75;margin-top:12px}

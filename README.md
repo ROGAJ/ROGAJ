@@ -1,29 +1,15 @@
-# ROGAJ — Sitio web corporativo
+# ROGAJ | Sitio web y demostración Control 360
 
-## Contenido
-- `index.html`: sitio web de una sola página con secciones Inicio, Nosotros, Servicios, Control 360, Demostración y Contacto.
-- `styles.css`: estilos responsive azul marino y dorado.
-- `script.js`: menú móvil, año dinámico y contacto por WhatsApp.
+Archivos para subir a la **raíz** de https://github.com/ROGAJ/ROGAJ:
+- `index.html`: sitio corporativo con acceso a la demo.
+- `demo.html`: tablero interactivo con filtros de periodo y escenarios, datos 100% ficticios.
+- `styles.css` y `script.js`: diseño y funciones del sitio corporativo.
+- `ROGAJ_Control_360_Demo.xlsx`: Excel de ejemplo descargable, independiente de los datos del simulador web.
 
-## Publicar gratis en GitHub Pages
-1. Crear una cuenta en github.com si no tienes una.
-2. Crear un repositorio público, por ejemplo `rogaj-web`.
-3. Subir `index.html`, `styles.css` y `script.js` a la raíz del repositorio.
-4. Ir a Settings > Pages > Build and deployment, elegir Deploy from a branch, `main` y carpeta `/ (root)`; guardar.
-5. Esperar a que GitHub muestre la dirección pública. La URL habitual es `https://USUARIO.github.io/rogaj-web/`.
+## Actualización
+Subir los 6 archivos a la raíz del repositorio, confirmar **Commit changes** en `main` y esperar la publicación automática en GitHub Pages. No hace falta reconfigurar Pages.
 
-También puede publicarse en otros alojamientos estáticos que acepten HTML, CSS y JavaScript.
+Página: https://rogaj.github.io/ROGAJ/
+Demostración: https://rogaj.github.io/ROGAJ/demo.html
 
-## Pendientes antes del lanzamiento público
-- Crear el correo de ROGAJ y reemplazar el texto 'Correo empresarial: próximamente'.
-- Confirmar uso y disponibilidad comercial de la marca ROGAJ.
-- Revisar avisos de privacidad y obligaciones aplicables antes de incorporar formularios con almacenamiento de datos o herramientas de analítica.
-- Sustituir la marca tipográfica provisional por el logotipo final exportado cuando se disponga del archivo.
-- Revisar que precios, alcance y disponibilidad coincidan con la oferta vigente.
-
-No hay backend, pagos, rastreadores ni almacenamiento de datos. El formulario solo abre WhatsApp con el mensaje preparado.
-
-## Contacto actualizado
-
-- Correo: consultaarogaj@gmail.com
-- WhatsApp: +52 55 5132 9784
+Contacto: consultaarogaj@gmail.com | WhatsApp +52 55 5132 9784.
